@@ -1,2 +1,4 @@
 # Uda-Deeplearning-Assignment
-the assignment for google deeplearning course on uda
+The assignment for google deeplearning course on uda.
+Assignment list:
+1. 1_notmnist.ipynb
